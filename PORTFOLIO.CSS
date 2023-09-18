@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(242, 60, 60);
+    margin-top: 60px;
+}
+#a1{
+    background-color: rgb(3, 3, 49);
+    width: 100%;
+    height: 500px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-top: 2%;
+}
+
+#a3{
+    color: rgb(246, 65, 65);
+    padding-right: 40%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left:20%;
+    
+    
+}
+#a4{
+    padding-right: 40px;
+    color: white;
+}
+#a5{
+    background-color: blue;
+   color: white;
+}
+#a6{
+    background-color:transparent;
+    width: 80px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+}
+#a7{
+    background-color:transparent;
+    width: 350px;
+    height: 190px;
+    margin-top: 140px;
+    margin-left: 80px;
+    float: left; 
+}
+#a8{
+    color:white;  
+}
+span{
+    color: rgb(246, 65, 65);
+}
+#a9{
+    font-size: 20px;
+    color: white;
+}
+#a02{
+    height: 40px;
+    width: 120px;
+    background-color:rgb(246, 65, 65); 
+    font-size: 20px;
+    border: 1px solid rgb(246, 65, 65) ;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#a03{
+    height: 40px;
+    width: 125px;
+    background-color:blue; 
+    font-size: 20px;
+    border: 1px solid blue ;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#a04{
+    width: 50px;
+    height: 230px;
+    position: fixed;
+    margin-top: 250PX;
+    margin-left: 16px;
+}
+img{
+    width: 20px;
+    height: 20px;
+    border: 1px solid darkblue;
+    border-radius: 50%;
+}
+#a07{
+height: 127px;
+width: 6px;
+border: 1px solid white;
+border-radius: 1px ;
+margin-left: 4px;
+}
